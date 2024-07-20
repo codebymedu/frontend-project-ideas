@@ -6,6 +6,10 @@ Join our Telegram channel for daily frontend project ideas: [Join Here](https://
 
 This project is excellent for learning how to create drag-and-drop interfaces, responsive design, and integrating various technologies. By the end, you'll be adept at creating tools that simplify website creation, making you a stronger candidate for tech roles.
 
+## Complexity Level
+
+- **High**: Gain advanced skills and deeper knowledge 🟢
+
 ## Details
 
 Create a tool that enables users to design custom landing pages without coding. The app should allow for dragging and dropping of elements, style customization, and viewing changes in real-time.
