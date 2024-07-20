@@ -2,29 +2,28 @@
 
 Join our Telegram channel for daily frontend project ideas: [Join Here](https://t.me/frontendprojects)
 
-## Description
+## Intro
 
-A Landing Page Builder is a tool that allows users to create attractive and functional landing pages without needing to write any code. Users can drag and drop elements, customize styles, and preview their pages in real-time.
+This project is excellent for learning how to create drag-and-drop interfaces, responsive design, and integrating various technologies. By the end, you'll be adept at creating tools that simplify website creation, making you a stronger candidate for tech roles.
 
-## Features
+## Details
 
-- Drag and drop page elements
-- Pre-built templates
-- Customizable styles and themes
-- Real-time preview
-- Responsive design for mobile and desktop
-- Integration with email marketing services
-- Form builder for lead capture
-- Export HTML/CSS files
+Create a tool that enables users to design custom landing pages without coding. The app should allow for dragging and dropping of elements, style customization, and viewing changes in real-time.
 
-## Technologies
+### User Stories:
 
-Use the stack you want to work with long term. This is only a suggestion.
+1.  **Drag and Drop:** Users can select elements like text boxes, images, and buttons and place them anywhere on the page.
+2.  **Templates:** Users can start with a pre-built template and modify it to suit their needs.
+3.  **Custom Styles:** Users can change the colors, fonts, and layouts to make the page look exactly how they want.
+4.  **Preview Mode:** Users can switch to a preview mode to see how their page will look on different devices.
+5.  **Integration:** The tool integrates with email marketing services to collect visitor information.
+6.  **Forms:** Users can add forms to their pages to gather leads.
+7.  **Export Options:** After designing, users can export the complete HTML and CSS for their custom landing page.
 
-- React & Next.js
-- Supabase
-- [VvvedJs](https://github.com/givanz/VvvebJs) (More impressive to create your own)
+## Design
 
-## Inspiration
+Use tools like Relume to structure your app and create initial wireframes. This will help you visualize the user interface and plan the user experience effectively.
 
-Tilda - A popular landing page builder with a drag and drop interface.
+## Backend APIs
+
+To improve your backend skills, set up your own backend using Supabase. This includes handling user authentication, data storage, and custom APIs for your features. If its too complex for you, create mock APIs to simulate backend interactions.
