@@ -26,8 +26,8 @@ This project is designed for developers interested in creating tools to run A/B 
 
 ## Design
 
-Utilize design software like Figma or Sketch to prototype the user interface of your A/B testing tool. Focus on creating an intuitive and accessible design that makes navigating complex data straightforward.
+Use tools like Relume to structure your app and create initial wireframes. This will help you visualize the user interface and plan the user experience effectively.
 
 ## Backend APIs
 
-Enhance your backend development skills by setting up APIs that handle experiment data, user segmentation, and results aggregation. Use Node.js and Express for your server, and consider using MongoDB for storing your experimental data efficiently. If setting up a complete backend is too daunting, consider using mock APIs to simulate the interactions.
+To improve your backend skills, set up your own backend using Supabase. This includes handling user authentication, data storage, and custom APIs for your features. If its too complex for you, create mock APIs to simulate backend interactions.
